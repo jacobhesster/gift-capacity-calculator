@@ -5,7 +5,7 @@
 #### Version 2.0:
 This gift capacity calculator estimates 5-year gift capacity based on an estimated net wealth statistic. The estimation begins with a modelling of the household's wealth ranking based on income information supplied by the user. If the user chooses, the income can be adjusted to incorporate a location variance that deflates or inflates income based on an identified city. For business owners and managers, incomes are based on the size of the company and the variations in pay according to the National Executive Survey (only CEO data is available so that is used to estimate the variation). The modelled percentile is then used to calculate the expected distribution among six categories identified by Edward Wolff's paper on household wealth trends: primary residence, liquid assets, pension accounts, corporate stocks, business equity and other real estate, and misc assets. The asset distribution is then adjusted to incorporate age effects which are also demonstrated by Edward Wolff in his research. Estimated gift capacity is reduced down to 1% of estimated total net worth. In a simplified manner, gift capacity can also be estimated at 5% of visible wealth which should always be lower than net worth. The end user can decide which rating is more relevant based on the information provided. The "Clear Fields" button will clear all editable fields and save the data in the "Data" tab if needed for retrieval. 
 
-Gift capacity is defined as an individual's capacity to give over 5-years."
+Gift capacity is defined as an individual's capacity to give over 5-years.
 
 #### Data Sources:
 * Physician Speciality Salaries (Medscape, 2018)
